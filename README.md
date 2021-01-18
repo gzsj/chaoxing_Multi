@@ -1,5 +1,9 @@
 ﻿# chaoxing_Multi
 
+# --超星网在2021-01-15有了更新 当前版本在大部分课程中使用会有报错，请等待开学后作者更新代码再使用--
+
+https://github.com/xz454867105/chaoxing_Multi.git
+
 超星学习通/超星尔雅/泛雅超星/mooc1-1.chaoxing/刷任务点（多开版）
 
 单开版（更稳定，无BUG）
